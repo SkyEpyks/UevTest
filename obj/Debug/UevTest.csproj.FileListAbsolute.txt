@@ -1,0 +1,10 @@
+C:\Github\UevTest\bin\Debug\UevTest.exe.config
+C:\Github\UevTest\bin\Debug\UevTest.exe
+C:\Github\UevTest\bin\Debug\UevTest.pdb
+C:\Github\UevTest\obj\Debug\UevTest.csprojAssemblyReference.cache
+C:\Github\UevTest\obj\Debug\UevTest.Form1.resources
+C:\Github\UevTest\obj\Debug\UevTest.Properties.Resources.resources
+C:\Github\UevTest\obj\Debug\UevTest.csproj.GenerateResource.cache
+C:\Github\UevTest\obj\Debug\UevTest.csproj.CoreCompileInputs.cache
+C:\Github\UevTest\obj\Debug\UevTest.exe
+C:\Github\UevTest\obj\Debug\UevTest.pdb
