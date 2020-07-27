@@ -1,3 +1,3 @@
-"UevTest" 
+UevTest
 
-C# APP to test if UEV is working properly
+C# Forms APP to test if Windows 10  UEV (user environment virtualisation) is working properly
